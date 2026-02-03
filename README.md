@@ -367,3 +367,4 @@ For support, email support@example.com or open an issue in the repository.
 
 **Note**: Make sure to configure your `.env` files properly before running the applications. Each application (aw-fe and aw-be) should run on different ports if you want to run them simultaneously.
 # aw_test
+# aw_test
